@@ -1,8 +1,12 @@
-
-
-
 // TODO: Include packages needed for this application
 //fs, inquirer, path, generatemarkdown.js - require
+
+const inquirer = require('inquirer');
+const fs = require('fs');
+// const utils = require('utils');
+
+// const generateMarkdown = require('./utils/generateMarkdown');
+
 // TODO: Create an array of questions for user input
 const questions = [
     {
@@ -51,6 +55,11 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'name',
+        message: 'What is your name?',
+    },
+    {
+        type: 'input',
         name: 'questions',
         message: 'Contact me with any questions',
     },
@@ -67,19 +76,35 @@ const questions = [
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {
 
-    FileSystem.
-}
-//return
-
-// use fs to write the file, path (acticvity 13)
-
-// TODO: Create a function to initialize app
-function init() {}
-// use inquirer and prompt to show the questions, take in the responses, then write the responses to teh file (activity 20) 
-// inside of writeToFile - file name, call generate markdown function and pass in the responses you got from the questions. 
-
-
-// Function call to initialize app
+  function init(){
+    inquirer.prompt(questions).then((data) => {
+      const filename =`${data.name.toLowerCase().split(' ').join(' ')}.json`
+  
+      fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
+      err? console.log(err): console.log('Success!')
+      );
+    });
+   }
 init();
+
+
+// function writeToFile(fileName, data) {
+    
+//     fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
+//     err? console.log(err): console.log('Success!')
+//     );
+// });
+    
+// //return
+
+// // use fs to write the file, path (acticvity 13)
+
+// // TODO: Create a function to initialize app
+// function init() {}
+// // use inquirer and prompt to show the questions, take in the responses, then write the responses to teh file (activity 20) 
+// // inside of writeToFile - file name, call generate markdown function and pass in the responses you got from the questions. 
+
+
+// // Function call to initialize app
+// init();}
