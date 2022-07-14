@@ -3,9 +3,9 @@
 
 const inquirer = require('inquirer');
 const fs = require('fs');
-// const utils = require('utils');
+const util = require('util');
 
-// const generateMarkdown = require('./utils/generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -40,7 +40,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'What license is being used?',
-        choices: ['MIT', 'Apache'],
+        choices: ['MIT', 'Apache', 'IBM', 'Perl'],
     },
     {
         type: 'input',
@@ -79,15 +79,20 @@ const questions = [
 
   function init(){
     inquirer.prompt(questions).then((data) => {
-      const filename =`${data.name.toLowerCase().split(' ').join(' ')}.json`
+    //   const filename =`${data.name.toLowerCase().split(' ').join(' ')}.json`
   
-      fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
+      fs.writeFile("READMe", generateMarkdown(data), (err) =>
       err? console.log(err): console.log('Success!')
       );
     });
    }
 init();
 
+// fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
+// err? console.log(err): console.log('Success!')
+// );
+// });
+// }
 
 // function writeToFile(fileName, data) {
     
