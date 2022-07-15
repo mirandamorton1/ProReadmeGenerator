@@ -31,9 +31,28 @@ function generateMarkdown(data) {
   return `
   
   # ${data.title}
-  ## Table of contents
-
+  
   ## Description
+  ${data.description}
+
+  ## Table of contents
+  * [Installation](#installation)
+  * [License](#license)
+  * [Usage](#usage)
+  * [Contributors](#contributors)
+  * [Tests](#test)
+  * [Questions](#questions)
+  ### Installation:
+  Notes about the install:
+  ### Usage
+  in order to use this app: ${data.usage}
+  ### License:
+  This project is licensed under:
+  ## Contributors:
+  ##Tests:
+  To test this app:
+  ## Questions:
+  If you have any questions regarding this app, feel free to contact me:
 
 
 `;

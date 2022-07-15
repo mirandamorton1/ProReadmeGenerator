@@ -66,7 +66,7 @@ const questions = [
     {
         type: 'input',
         name: 'username',
-        message: 'What is your GiHub username?',
+        message: 'What is your GitHub username?',
     },
     {
         type: 'input',
@@ -79,7 +79,7 @@ const questions = [
 
   function init(){
     inquirer.prompt(questions).then((data) => {
-    //   const filename =`${data.name.toLowerCase().split(' ').join(' ')}.json`
+      const filename =`${data.name.toLowerCase().split(' ').join(' ')}.json`
   
       fs.writeFile("READMe", generateMarkdown(data), (err) =>
       err? console.log(err): console.log('Success!')
@@ -93,6 +93,9 @@ init();
 // );
 // });
 // }
+
+// fs.writeFile("READMe", generateMarkdown(data), (err) =>
+// err? console.log(err): console.log('Success!')
 
 // function writeToFile(fileName, data) {
     
