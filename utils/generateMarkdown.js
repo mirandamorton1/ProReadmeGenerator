@@ -43,16 +43,18 @@ function generateMarkdown(data) {
   * [Tests](#test)
   * [Questions](#questions)
   ### Installation:
-  Notes about the install:
+  Notes about the install:${data.installation}
   ### Usage
-  in order to use this app: ${data.usage}
+  In order to use this app: ${data.usage}
   ### License:
-  This project is licensed under:
-  ## Contributors:
-  ##Tests:
-  To test this app:
-  ## Questions:
-  If you have any questions regarding this app, feel free to contact me:
+  This project is licensed under: ${data.license}
+  ### Contributors: ${data.contributors}
+  ### Tests:
+  To test this app: ${data.test}
+  ### Questions:
+  If you have any questions regarding this app, feel free to contact me: 
+  My GitHub profile can be found here: (github.com/${data.username})   
+  You can email me at: ${data.email}
 
 
 `;

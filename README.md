@@ -1,9 +1,9 @@
 
   
-  # my homework
+  # Challenge 09
   
   ## Description
-  this is just an example of mt homework
+  It's an example 
 
   ## Table of contents
   * [Installation](#installation)
@@ -13,15 +13,17 @@
   * [Tests](#test)
   * [Questions](#questions)
   ### Installation:
-  Notes about the install:
+  Notes about the install:example 2
   ### Usage
-  in order to use this app: to thd 
+  In order to use this app: exapmle 3
   ### License:
-  This project is licensed under:
-  ## Contributors:
-  ##Tests:
-  To test this app:
-  ## Questions:
-  If you have any questions regarding this app, feel free to contact me:
+  This project is licensed under: MIT
+  ### Contributors: NA
+  ### Tests:
+  To test this app: example 4
+  ### Questions:
+  If you have any questions regarding this app, feel free to contact me: 
+  My GitHub profile can be found here: (github.com/mirandamorton1)   
+  You can email me at: janedoe@hotmail.com
 
 
