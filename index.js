@@ -40,12 +40,12 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'What license is being used?',
-        choices: ['MIT', 'Apache', 'IBM', 'Perl'],
+        choices: ['MIT', 'Apache', 'ISC', 'GNU'],
     },
     {
         type: 'input',
         name: 'contributors',
-        message: 'Who contributed to this project?'
+        message: 'What does the user need to know about contributing to the project?'
     },
     {
         type: 'input',
