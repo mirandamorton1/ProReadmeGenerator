@@ -81,7 +81,7 @@ const questions = [
     inquirer.prompt(questions).then((data) => {
       const filename =`${data.name.toLowerCase().split(' ').join(' ')}.json`
   
-      fs.writeFile("READMe", generateMarkdown(data), (err) =>
+      fs.writeFile("README.md", generateMarkdown(data), (err) =>
       err? console.log(err): console.log('Success!')
       );
     });
