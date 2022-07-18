@@ -1,11 +1,11 @@
 
   
-  # ProReadmeGenerator
+  # Example....
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Description
-  This was a class assignment.
+  Well.....
 
   ## Table of contents
   * [Installation](#installation)
@@ -15,23 +15,23 @@
   * [Tests](#test)
   * [Questions](#questions)
   ### Installation:
-  Notes about the install:You should use npm i
+  Notes about the install:you need to lkjl
   ### Usage
-  In order to use this app: You can use it by...
+  In order to use this app: wlelelelele
    ## License
 
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  https://opensource.org/licenses/MIT
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  https://opensource.org/licenses/Apache-2.0
   
   
-This project is licensed under: MIT
-  ### Contributors: You should know..
+This project is licensed under: Apache
+  ### Contributors: To know..
   ### Tests:
-  To test this app: npm test
+  To test this app: by....
   ### Questions:
   If you have any questions regarding this app, feel free to contact me: 
-  My GitHub profile can be found here: (github.com/mirandamorton1)   
-  You can email me at: miranda.morton1@gmail.com.
+  My GitHub profile can be found here: (github.com/jane)   
+  You can email me at: jane@mail.com.
 
 
