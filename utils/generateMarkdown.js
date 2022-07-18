@@ -81,7 +81,8 @@ function generateMarkdown(data) {
   In order to use this app: ${data.usage}
   ${renderLicenseSection(data.license)}
 This project is licensed under: ${data.license}
-  ### Contributors: ${data.contributors}
+  ### Contributors: 
+  ${data.contributors}
   ### Tests:
   To test this app: ${data.test}
   ### Questions:

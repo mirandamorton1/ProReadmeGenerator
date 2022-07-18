@@ -88,31 +88,3 @@ const questions = [
    }
 init();
 
-// fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
-// err? console.log(err): console.log('Success!')
-// );
-// });
-// }
-
-// fs.writeFile("READMe", generateMarkdown(data), (err) =>
-// err? console.log(err): console.log('Success!')
-
-// function writeToFile(fileName, data) {
-    
-//     fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
-//     err? console.log(err): console.log('Success!')
-//     );
-// });
-    
-// //return
-
-// // use fs to write the file, path (acticvity 13)
-
-// // TODO: Create a function to initialize app
-// function init() {}
-// // use inquirer and prompt to show the questions, take in the responses, then write the responses to teh file (activity 20) 
-// // inside of writeToFile - file name, call generate markdown function and pass in the responses you got from the questions. 
-
-
-// // Function call to initialize app
-// init();}
