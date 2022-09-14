@@ -1,11 +1,11 @@
-https://drive.google.com/file/d/14wtM4V9LlWgYJ5tWz4t-FA8kGPrcDMNE/view
-  
   # ProReadMeGenerator
 
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Description
   It's an example for class
+  
+  A walk-through video of this project can be found here: https://drive.google.com/file/d/14wtM4V9LlWgYJ5tWz4t-FA8kGPrcDMNE/view
 
   ## Table of Contents
   * [Description](#description)
@@ -43,6 +43,6 @@ This project is licensed under: Apache
   If you have any questions regarding this app, feel free to contact me: 
   GitHub: https://github.com/mirandamorton1   
   Email: miranda.morton1@gmail.com
-  This project can be found at: 
-
+  This project can be found at: [
+](https://github.com/mirandamorton1/ProReadmeGenerator/blob/main/README.md)
 
