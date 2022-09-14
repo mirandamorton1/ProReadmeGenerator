@@ -39,7 +39,7 @@ This project is licensed under: Apache
   - CSS
   ### Questions:
   If you have any questions regarding this app, feel free to contact me: 
-  My GitHub profile can be found here: (github.com/mirandamorton1)   
+  My GitHub profile can be found here: (https://github.com/mirandamorton1)   
   You can email me at: miranda.morton1@gmail.com.
 
 
