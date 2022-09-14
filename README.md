@@ -14,7 +14,7 @@ https://drive.google.com/file/d/14wtM4V9LlWgYJ5tWz4t-FA8kGPrcDMNE/view
   * [Usage](#usage)
   * [Contributors](#contributors)
   * [Tests](#test)
-  * [Technology Used](#technology used)
+  * [Technology Used](#technologyused)
   * [Questions](#questions)
   ### Installation:
   Notes about the install:npm i
