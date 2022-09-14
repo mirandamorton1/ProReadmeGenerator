@@ -20,7 +20,7 @@ https://drive.google.com/file/d/14wtM4V9LlWgYJ5tWz4t-FA8kGPrcDMNE/view
   Notes about the install:npm i
   ### Usage
   In order to use this app: You can use it by..
-   ## License
+  ### License
 
   
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -30,6 +30,8 @@ https://drive.google.com/file/d/14wtM4V9LlWgYJ5tWz4t-FA8kGPrcDMNE/view
 This project is licensed under: Apache
   ### Contributors: 
   They should know...
+  #### Contributors:
+  Miranda Morton
   ### Tests:
   To test this app: npm test
   ### Technology Used:
