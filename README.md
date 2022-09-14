@@ -7,7 +7,7 @@ https://drive.google.com/file/d/14wtM4V9LlWgYJ5tWz4t-FA8kGPrcDMNE/view
   ## Description
   It's an example for class
 
-  ## Table of contents
+  ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
   * [License](#license)
@@ -28,6 +28,8 @@ https://drive.google.com/file/d/14wtM4V9LlWgYJ5tWz4t-FA8kGPrcDMNE/view
   
   
 This project is licensed under: Apache
+  ### Uage:
+  To use this..
   ### Contributors: 
   They should know...
   #### Contributors:
@@ -39,7 +41,8 @@ This project is licensed under: Apache
   - CSS
   ### Questions:
   If you have any questions regarding this app, feel free to contact me: 
-  My GitHub profile can be found here: (https://github.com/mirandamorton1)   
-  You can email me at: miranda.morton1@gmail.com.
+  GitHub: https://github.com/mirandamorton1   
+  Email: miranda.morton1@gmail.com
+  This project can be found at: 
 
 
