@@ -14,6 +14,7 @@ https://drive.google.com/file/d/14wtM4V9LlWgYJ5tWz4t-FA8kGPrcDMNE/view
   * [Usage](#usage)
   * [Contributors](#contributors)
   * [Tests](#test)
+  * [Technology Used](#technology used)
   * [Questions](#questions)
   ### Installation:
   Notes about the install:npm i
@@ -31,6 +32,9 @@ This project is licensed under: Apache
   They should know...
   ### Tests:
   To test this app: npm test
+  ### Technology Used:
+  - HTML
+  - CSS
   ### Questions:
   If you have any questions regarding this app, feel free to contact me: 
   My GitHub profile can be found here: (github.com/mirandamorton1)   
