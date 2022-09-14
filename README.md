@@ -12,9 +12,9 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Contributors](#contributors)
   * [Tests](#test)
   * [Technology Used](#technology-used)
+  * [Contributors](#contributors)
   * [Questions](#questions)
 
   ### Installation:
@@ -28,14 +28,14 @@
   
   
 `This project is licensed under MIT`
-  ### Contributors: 
-  To contribute to this project, clone this repo locally and commit your code on a separate branch. 
-  #### Contributors:
-  Miranda Morton
   ### Tests:
   To test this app, open the file in VS Code, open the terminal and run `node index.js`. Answer the questions and view the preview of the `generatedREADME.md` file to see if the answers were rendered correctly. 
   ### Technology Used:
   - NA
+  ### Contributors: 
+  To contribute to this project, clone this repo locally and commit your code on a separate branch. 
+  #### Contributors:
+  Miranda Morton
   ### Questions:
   If you have any questions regarding this app, feel free to contact me: 
   #### GitHub: https://github.com/mirandamorton1   
