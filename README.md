@@ -26,11 +26,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   
-This project is licensed under: MIT
+`This project is licensed under MIT`
   ### Installation:
-  To install, clone the repository and place it in your terminal. In the terminal, enter the command `npm init` 
+  To install, clone the repository and place it in your terminal. In the terminal, enter the command `npm init` to install npm. Install inquirer by entering `npm install inquirer`. Start the program by entering `node develop/index.js` into the terminal and answer each question accordingly. 
   ### Uage:
-  To use this..
+  To use this app, follow the steps above from Installation and load the module into your code and require it when needed: `const inquirer = require('inquirer')`
   ### Contributors: 
   They should know...
   #### Contributors:
