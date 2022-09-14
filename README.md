@@ -10,8 +10,8 @@ https://drive.google.com/file/d/14wtM4V9LlWgYJ5tWz4t-FA8kGPrcDMNE/view
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [License](#license)
   * [Usage](#usage)
+  * [License](#license)
   * [Contributors](#contributors)
   * [Tests](#test)
   * [Technology Used](#technology-used)
