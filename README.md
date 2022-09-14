@@ -43,5 +43,5 @@ This project is licensed under: Apache
   If you have any questions regarding this app, feel free to contact me: 
   #### GitHub: https://github.com/mirandamorton1   
   #### Email: miranda.morton1@gmail.com
-  This project can be found at: https://github.com/mirandamorton1/ProReadmeGenerator/blob/main/README.md)
+  This project: https://github.com/mirandamorton1/ProReadmeGenerator/blob/main/README.md
 
